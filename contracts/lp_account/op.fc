@@ -1,0 +1,7 @@
+const reset_gas = 0x42a0fb43; ;;"reset_gas"c;
+const add_liquidity = 0x3ebe5431; ;;"add_liquidity"c;
+const cb_add_liquidity = 0x56dfeb8a; ;;"cb_add_liquidity"c;
+const getter_lp_account_data = 0x1d439ae0; ;;"getter_lp_account_data"c;
+const direct_add_liquidity = 0x4cf82803; ;;"direct_add_liquidity"c;
+const refund_me = 0xbf3f447; ;;"refund_me"c;
+const cb_refund_me = 0x89446a42; ;;"cb_refund_me"c;

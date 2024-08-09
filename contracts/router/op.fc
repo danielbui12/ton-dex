@@ -1,0 +1,27 @@
+const transfer = 0xf8a7ea5;
+const transfer_notification = 0x7362d09c;
+
+const swap = 0x25938561; ;;"swap"c;
+const provide_lp = 0xfcf9e58f; ;;"provide_lp"c;
+const pay_to = 0xf93bb43f; ;;"pay_to"c;
+const collect_fees = 0x1fcb7d3d; ;;"collect_fees"c;
+const set_fees = 0x355423e5; ;;"set_fees"c;
+const reset_gas = 0x42a0fb43; ;;"reset_gas"c;
+const reset_pool_gas = 0xf6aa9737; ;;"reset_pool_gas"c;
+const lock = 0x878f9b0e; ;;"lock"c;
+const unlock = 0x6ae4b0ef; ;;"unlock"c;
+
+const init_code_upgrade = 0xdf1e233d; ;;"init_code_upgrade"c;
+const init_admin_upgrade = 0x2fb94384; ;;"init_admin_upgrade"c;
+const cancel_code_upgrade = 0x357ccc67; ;;"cancel_code_upgrade"c;
+const cancel_admin_upgrade = 0xa4ed9981; ;;"cancel_admin_upgrade"c;
+const finalize_upgrades = 0x6378509f; ;;"finalize_upgrades"c;
+
+;; async "get" calls
+const getter_pool_address = 0xd1db969b; ;;"getter_pool_address"c;
+
+;; transfer refund statuses
+const transfer_bounce_locked = 0xa0dbdcb; ;;"transfer_bounce_locked"c;
+const transfer_bounce_invalid_request = 0x19727ea8; ;;"transfer_bounce_invalid_request"c;
+
+
